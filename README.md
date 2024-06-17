@@ -7,3 +7,5 @@ Step 2: Paste the following,
 ```bash
    powershell -ExecutionPolicy Bypass -File activate.ps1
 ```
+Step 3: Select Windows Activation
+Step 4: Restart your windows
