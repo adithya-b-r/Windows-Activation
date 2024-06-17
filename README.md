@@ -4,3 +4,6 @@ Step 2: Paste the following,
  ```bash
    curl -o activate.ps1 https://raw.githubusercontent.com/Abr009/Windows-Activation/main/activate.ps1 
    ```
+```bash
+   powershell -ExecutionPolicy Bypass -File activate.ps1
+```
